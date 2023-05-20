@@ -10,7 +10,7 @@ const comments = [
     id: 2,
     content: "멋사 좋아요~~",
     like_users: [],
-    author: { "id": 2, "username": "개발자" },
+    author: { "id": 2, "username": "유진" },
     created_at: "2022-11-22T08:09:54.233976Z",
   },
 ];
